@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo Time and Date App</string>
+    <string name="display_date">Display date</string>
+    <string name="display_time">Display time</string>
+    <string name="text_view">TextView</string>
+    <string name="reset">Reset</string>
+</resources>
